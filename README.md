@@ -1,4 +1,4 @@
-Estudo de implementação de Flutter e SwiftUI.
+# SwiftUI + Flutter. Easier than Flutter official docs
 
 ## Configuração
 
